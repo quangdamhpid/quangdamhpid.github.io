@@ -1,11 +1,11 @@
 <html>
 	<head>
-			<title>Day la tieu de</title>
+			<title>Day La Tieu De</title>
 	</head>
 			<body>
-					<h1>Hello you</h1>
-						Toi la <b>Quang</b>.<br/>
-						Toi la Ky thuat<br/>
+					<h1>Hello HPID Team</h1>
+						My name <b>QUANG</b>.<br/>
+						Technical in HPID Corp.,<br/>
 						Click here to <a href="https://tinhte.vn">TINHTE</a>
 
 			</body>
